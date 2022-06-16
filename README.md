@@ -25,7 +25,7 @@ python app.py
 ```
 By default, flask will run on port 5000.
 
-3. Navigate to [URL](http://127.0.0.1:5000/) or [URL](http://localhost:5000)
+3. Navigate to [URL](http://127.0.0.1:5000/) or this other [URL](http://localhost:5000)
 
 You should be able to view the homepage.
 
