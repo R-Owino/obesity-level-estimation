@@ -8,7 +8,7 @@ import pickle
 app = Flask(__name__, template_folder='Templates')
 model = pickle.load(open('modelkmeans.pkl', 'rb'))
 
-# telling flask what url should trigger the function index()
+# telling flask what url should trigger the function home()
 @app.route('/')
 @app.route('/index')
 def home():
