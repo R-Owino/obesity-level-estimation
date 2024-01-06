@@ -1,12 +1,12 @@
 ## FLASK APPLICATION FOR OBESITY LEVEL ESTIMATION
 
-This is a simple application for deploying machine learning model for obesity level estimation using flask API.
+This is a simple application for deploying machine learning model for obesity level estimation using Flask RestAPI.
 
 ## PRE-REQUISITES
 
 - Scikit Learn
-- Pandas (for Machine Leraning Model) 
-- Flask (for API)
+- Pandas
+- Flask
 
 Flask version == 2.1.2
 
